@@ -1,2 +1,2 @@
 # jewellery
-Online Artificial jewellery project
+Online Artificial jewellery project website
